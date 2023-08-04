@@ -6,3 +6,4 @@
 
 ![Gabriela GitHub stats](https://github-readme-stats.vercel.app/api?username=gabfernandes8&show_icons=true&theme=synthwave)
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfernandes8&layout=compact&langs_count=7&theme=synthwave"/>
