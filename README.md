@@ -2,6 +2,8 @@
 
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-fernandes-715577266/)
+<a href="mailto:gabriela.cavalcanti886@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+
 
 
 <div style="display: inline_block" align="center">
