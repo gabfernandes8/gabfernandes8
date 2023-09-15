@@ -2,6 +2,7 @@
 
 <a href="[https://www.linkedin.com/in/gabriela-fernandes-715577266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 <a href="mailto:gabriela.cavalcanti886@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+<a href="[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)"></a>
 
 
 
