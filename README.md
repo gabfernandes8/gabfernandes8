@@ -1,5 +1,12 @@
-### Gab's Archive 🦋 ### 
-<a href="https://www.linkedin.com/in/gabriela-fernandes-715577266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://github.com/gabfernandes8/gabfernandes8/assets/124157058/0bd077fc-cc2b-40cf-ba14-ab4991c24431">
+
+---
+
+<div  align="center">
+<a href="https://www.instagram.com/hbrielaf/" target="_blank"><img src="https://img.shields.io/badge/Instagram-CA7984?style=flat-squarer&logo=Instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gabriela-fernandes-715577266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-CA7984?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+<a href="mailto:gabriela.cavalcanti886@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-CA7984?style=flat-square&logo=Gmail&logoColor=white"></a>
+</div>
 
 #### learning!
 <a href="[![JavaScript]"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
