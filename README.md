@@ -1,4 +1,4 @@
-<img src="https://github.com/gabfernandes8/gabfernandes8/assets/124157058/0bd077fc-cc2b-40cf-ba14-ab4991c24431">
+<img src="https://github.com/gabfernandes8/gabfernandes8/assets/124157058/643d6a3f-cda5-4f11-91a7-5ba51316ba91">
 
 ---
 
@@ -9,13 +9,13 @@
 </div>
 
 #### learning!
-<a href="[![JavaScript]"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-<a href="[![HTML]"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="[![CSS]"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="[![JAVA]"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="[![MYSQL]"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="[![JavaScript]"><img src="https://img.shields.io/badge/JavaScript-CA7984?style=for-the-badge&logo=javascript&logoColor=FFFFFF"></a>
+<a href="[![HTML]"><img src="https://img.shields.io/badge/HTML5-CA7984?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="[![CSS]"><img src="https://img.shields.io/badge/CSS3-CA7984?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="[![JAVA]"><img src="https://img.shields.io/badge/Java-CA7984?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="[![MYSQL]"><img src="https://img.shields.io/badge/MySQL-CA7984?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
 <div style="display: inline_block" align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabfernandes8&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfernandes8&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabfernandes8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfernandes8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
