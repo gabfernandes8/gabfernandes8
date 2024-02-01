@@ -5,7 +5,6 @@
 <div  align="center">
 <a href="https://www.instagram.com/hbrielaf/" target="_blank"><img src="https://img.shields.io/badge/Instagram-CA7984?style=flat-squarer&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gabriela-fernandes-715577266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-CA7984?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-<a href="mailto:gabriela.cavalcanti886@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-CA7984?style=flat-square&logo=Gmail&logoColor=white"></a>
 </div>
 
 #### learning!
