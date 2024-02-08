@@ -11,7 +11,6 @@
 <a href="[![JavaScript]"><img src="https://img.shields.io/badge/JavaScript-CA7984?style=for-the-badge&logo=javascript&logoColor=FFFFFF"></a>
 <a href="[![HTML]"><img src="https://img.shields.io/badge/HTML5-CA7984?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="[![CSS]"><img src="https://img.shields.io/badge/CSS3-CA7984?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="[![JAVA]"><img src="https://img.shields.io/badge/Java-CA7984?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="[![MYSQL]"><img src="https://img.shields.io/badge/MySQL-CA7984?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="[![JSON]"><img src="https://img.shields.io/badge/json-CA7984?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="[![KOTLIN]"><img src="https://img.shields.io/badge/Kotlin-CA7984?style=for-the-badge&logo=kotlin&logoColor=white"></a>
