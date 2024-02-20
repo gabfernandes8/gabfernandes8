@@ -8,13 +8,10 @@
 </div>
 
 #### learning!
-<a href="[![JavaScript]"><img src="https://img.shields.io/badge/JavaScript-CA7984?style=for-the-badge&logo=javascript&logoColor=FFFFFF"></a>
-<a href="[![HTML]"><img src="https://img.shields.io/badge/HTML5-CA7984?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="[![CSS]"><img src="https://img.shields.io/badge/CSS3-CA7984?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="[![MYSQL]"><img src="https://img.shields.io/badge/MySQL-CA7984?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="[![JSON]"><img src="https://img.shields.io/badge/json-CA7984?style=for-the-badge&logo=json&logoColor=white"></a>
-<a href="[![KOTLIN]"><img src="https://img.shields.io/badge/Kotlin-CA7984?style=for-the-badge&logo=kotlin&logoColor=white"></a>
-<a hre="[![TAILWIND]"><img src="https://img.shields.io/badge/Tailwind_CSS-CA7984?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=1572B6)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div style="display: inline_block" align="center">
