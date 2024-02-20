@@ -15,6 +15,7 @@
 <a href="[![JSON]"><img src="https://img.shields.io/badge/json-CA7984?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="[![KOTLIN]"><img src="https://img.shields.io/badge/Kotlin-CA7984?style=for-the-badge&logo=kotlin&logoColor=white"></a>
 <a hre="[![TAILWIND]"><img src="https://img.shields.io/badge/Tailwind_CSS-CA7984?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div style="display: inline_block" align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabfernandes8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
