@@ -16,6 +16,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div style="display: inline_block" align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabfernandes8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabfernandes8&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfernandes8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
