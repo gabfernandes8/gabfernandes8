@@ -17,6 +17,6 @@
 
 <div style="display: inline_block" align="center">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=gabfernandes8&bg_color=292A36&color=ffffff&line=CA7984&point=ffffff&area=true&hide_border=true">
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabfernandes8&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfernandes8&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabfernandes8&theme=dracula&show_icons=true&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfernandes8&layout=donut&theme=dracula&hide_border=true"/>
 </div>
