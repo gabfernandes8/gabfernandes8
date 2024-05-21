@@ -10,7 +10,7 @@
 #### learning!
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=flat-square&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwind-css&logoColor=1572B6)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=flat-square&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
