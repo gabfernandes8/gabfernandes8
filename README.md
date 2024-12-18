@@ -7,13 +7,15 @@
 <a href="https://www.linkedin.com/in/gabriela-fernandes-715577266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-CA7984?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 </div>
 
-#### learning!
+#### stacks!
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwind-css&logoColor=1572B6)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=flat-square&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+#### learning!
+
+![JavaScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div style="display: inline_block" align="center">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=gabfernandes8&bg_color=292A36&color=ffffff&line=CA7984&point=ffffff&area=true&hide_border=true">
