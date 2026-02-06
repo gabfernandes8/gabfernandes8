@@ -15,7 +15,7 @@
 
 #### learning!
 
-![JavaScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div style="display: inline_block" align="center">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=gabfernandes8&bg_color=292A36&color=ffffff&line=CA7984&point=ffffff&area=true&hide_border=true">
